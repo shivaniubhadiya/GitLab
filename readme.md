@@ -1,1 +1,2 @@
-this is my git frist file.
+\# My First Git Project - UI Design
+
